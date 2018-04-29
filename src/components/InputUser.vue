@@ -1,6 +1,6 @@
 
 <template>
-  <el-input v-model="input" placeholder="请输入内容"></el-input>
+  <el-input width="100" v-model="input" placeholder="请输入内容"></el-input>
 </template>
 
 <script>

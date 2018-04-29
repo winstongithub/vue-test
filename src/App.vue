@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <el-button @click="visible = false">Button</el-button>
     <InputUser/>
+    <el-button @click="visible = false">Button</el-button>
   </div>
 </template>
 
